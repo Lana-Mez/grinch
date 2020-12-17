@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617346169462",
+    "project_id": "sao-01",
+    "storage_bucket": "sao-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617346169462:android:57efe1d376e4484dcebd57",
+        "android_client_info": {
+          "package_name": "com.example.toradora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617346169462-6q92b91aujd95972l7afc1pa6crjv0vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT7DJKiKvSbXMKhYGVtFKM_qwqw0c24BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617346169462-6q92b91aujd95972l7afc1pa6crjv0vh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
